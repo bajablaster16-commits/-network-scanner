@@ -6,7 +6,7 @@ from email.mime.multipart import MIMEMultipart
 import nmap
 import datetime
 
-EMAIL = "jacobpolice4@gmail.com"
+EMAIL = "YOUR_EMAIL"
 from dotenv import load_dotenv; load_dotenv()
 APP_PASSWORD = os.getenv("APP_PASSWORD")
 HISTORY_FILE = "device_history.json"
