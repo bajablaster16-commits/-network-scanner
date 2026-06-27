@@ -7,7 +7,8 @@ import nmap
 import datetime
 
 EMAIL = "jacobpolice4@gmail.com"
-APP_PASSWORD = "rlnp qwws jjrh jncx"
+from dotenv import load_dotenv; load_dotenv()
+APP_PASSWORD = os.getenv("APP_PASSWORD")
 HISTORY_FILE = "device_history.json"
 
 def identify_device(ports):
