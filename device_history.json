@@ -1,0 +1,185 @@
+{
+  "192.168.4.1": {
+    "first_seen": "2026-06-26 18:49:49",
+    "last_seen": "2026-06-26 20:54:46",
+    "ports": [
+      53,
+      1900,
+      3001
+    ],
+    "times_seen": 2,
+    "device": "Router / Gateway"
+  },
+  "192.168.4.20": {
+    "first_seen": "2026-06-26 18:49:49",
+    "last_seen": "2026-06-26 20:54:46",
+    "ports": [
+      53,
+      3001
+    ],
+    "times_seen": 2,
+    "device": "DNS / Security Device"
+  },
+  "192.168.4.21": {
+    "first_seen": "2026-06-26 18:49:49",
+    "last_seen": "2026-06-26 20:54:46",
+    "ports": [
+      53,
+      3001
+    ],
+    "times_seen": 2,
+    "device": "DNS / Security Device"
+  },
+  "192.168.4.23": {
+    "first_seen": "2026-06-26 18:49:49",
+    "last_seen": "2026-06-26 20:54:46",
+    "ports": [
+      80,
+      7000,
+      8008,
+      8009,
+      8443,
+      9000
+    ],
+    "times_seen": 2,
+    "device": "Google Chromecast / Home"
+  },
+  "192.168.4.40": {
+    "first_seen": "2026-06-26 18:49:49",
+    "last_seen": "2026-06-26 20:54:46",
+    "ports": [
+      8080,
+      9000,
+      9001,
+      49152
+    ],
+    "times_seen": 2,
+    "device": "Server / Camera System"
+  },
+  "192.168.4.42": {
+    "first_seen": "2026-06-26 18:49:49",
+    "last_seen": "2026-06-26 20:54:46",
+    "ports": [
+      80,
+      111,
+      5555
+    ],
+    "times_seen": 2,
+    "device": "Linux / NAS Device"
+  },
+  "192.168.4.43": {
+    "first_seen": "2026-06-26 18:49:49",
+    "last_seen": "2026-06-26 20:54:46",
+    "ports": [
+      80,
+      111,
+      5555
+    ],
+    "times_seen": 2,
+    "device": "Linux / NAS Device"
+  },
+  "192.168.4.45": {
+    "first_seen": "2026-06-26 18:49:49",
+    "last_seen": "2026-06-26 20:54:46",
+    "ports": [
+      80,
+      443,
+      515,
+      631,
+      9100
+    ],
+    "times_seen": 2,
+    "device": "Network Printer"
+  },
+  "192.168.4.56": {
+    "first_seen": "2026-06-26 18:49:49",
+    "last_seen": "2026-06-26 19:00:49",
+    "ports": [
+      49152,
+      62078
+    ],
+    "times_seen": 1,
+    "device": "iPhone / iPad"
+  },
+  "192.168.4.65": {
+    "first_seen": "2026-06-26 18:49:49",
+    "last_seen": "2026-06-26 20:54:46",
+    "ports": [
+      3000,
+      5000,
+      7000
+    ],
+    "times_seen": 2,
+    "device": "Apple Device / AirPlay"
+  },
+  "192.168.4.76": {
+    "first_seen": "2026-06-26 18:49:49",
+    "last_seen": "2026-06-26 20:54:46",
+    "ports": [
+      8008,
+      8009,
+      8443,
+      9000,
+      10001
+    ],
+    "times_seen": 2,
+    "device": "Google Chromecast / Home"
+  },
+  "192.168.4.85": {
+    "first_seen": "2026-06-26 18:49:49",
+    "last_seen": "2026-06-26 20:54:46",
+    "ports": [
+      4000,
+      7000,
+      8001,
+      8002,
+      8080,
+      9080,
+      9999
+    ],
+    "times_seen": 2,
+    "device": "Apple Device / AirPlay"
+  },
+  "192.168.4.91": {
+    "first_seen": "2026-06-26 18:49:49",
+    "last_seen": "2026-06-26 20:54:46",
+    "ports": [
+      8008,
+      8009,
+      8443,
+      9000
+    ],
+    "times_seen": 2,
+    "device": "Google Chromecast / Home"
+  },
+  "192.168.4.60": {
+    "first_seen": "2026-06-26 19:00:49",
+    "last_seen": "2026-06-26 20:54:46",
+    "times_seen": 1,
+    "device": "iPhone / iPad",
+    "ports": [
+      49152,
+      62078
+    ]
+  },
+  "192.168.4.55": {
+    "first_seen": "2026-06-26 20:54:46",
+    "last_seen": "2026-06-26 20:54:46",
+    "times_seen": 0,
+    "device": "iPhone / iPad",
+    "ports": [
+      49152,
+      62078
+    ]
+  },
+  "192.168.4.62": {
+    "first_seen": "2026-06-26 20:54:46",
+    "last_seen": "2026-06-26 20:54:46",
+    "times_seen": 0,
+    "device": "iPhone / iPad",
+    "ports": [
+      49152,
+      62078
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+==================================================
+NETWORK SCAN REPORT
+Target: 192.168.4.0/24
+Date: 2026-06-26 18:12:48
+==================================================
+
+Host: 192.168.4.1 ()
+Status: up
+  Port 53: domain 
+  Port 1900: http 0.6
+  Port 3001: nessus 
+
+Host: 192.168.4.20 ()
+Status: up
+  Port 53: domain 
+  Port 3001: nessus 
+
+Host: 192.168.4.21 ()
+Status: up
+  Port 53: domain 
+  Port 3001: nessus 
+
+Host: 192.168.4.23 ()
+Status: up
+  Port 80: http 
+  Port 7000: rtsp 377.40.00
+  Port 8008: http 
+  Port 8009: castv2 
+  Port 8443: https-alt 
+  Port 9000: cslistener 
+
+Host: 192.168.4.40 ()
+Status: up
+  Port 8080: http 
+  Port 9000: http 
+  Port 9001: tor-orport 
+  Port 49152: http 
+
+Host: 192.168.4.42 ()
+Status: up
+  Port 80: http 
+  Port 111: rpcbind 2
+  Port 5555: zmtp 
+
+Host: 192.168.4.43 ()
+Status: up
+  Port 80: http 
+  Port 111: rpcbind 2
+  Port 5555: zmtp 
+
+Host: 192.168.4.45 ()
+Status: up
+  Port 80: tcpwrapped 
+  Port 443: tcpwrapped 
+  Port 515: printer 
+  Port 631: tcpwrapped 
+  Port 9100: jetdirect 
+
+Host: 192.168.4.55 ()
+Status: up
+  Port 49152: tcpwrapped 
+  Port 62078: tcpwrapped 
+
+Host: 192.168.4.56 ()
+Status: up
+  Port 49152: tcpwrapped 
+  Port 62078: tcpwrapped 
+
+Host: 192.168.4.62 ()
+Status: up
+  Port 49152: tcpwrapped 
+  Port 62078: tcpwrapped 
+
+Host: 192.168.4.65 ()
+Status: up
+  Port 3000: ppp 
+  Port 5000: rtsp 
+  Port 7000: rtsp 
+
+Host: 192.168.4.76 ()
+Status: up
+  Port 8008: http 
+  Port 8009: ajp13 
+  Port 8443: https-alt 
+  Port 9000: cslistener 
+  Port 10001: scp-config 
+
+Host: 192.168.4.83 ()
+Status: up
+  Port 7000: rtsp 
+
+Host: 192.168.4.85 ()
+Status: up
+  Port 4000: remoteanything 
+  Port 7000: rtsp 377.40.00
+  Port 8001: vcom-tunnel 
+  Port 8002: teradataordbms 
+  Port 8080: http-proxy 
+  Port 9080: glrpc 
+  Port 9999: abyss 
+
+Host: 192.168.4.91 ()
+Status: up
+  Port 8008: http 
+  Port 8009: castv2 
+  Port 8443: https-alt 
+  Port 9000: cslistener 
+
+==================================================
+FLAGGED PORTS EXPLANATION:
+21  = FTP  (often unsecured file transfer)
+23  = Telnet (unencrypted, major risk)
+3389 = RDP (remote desktop, common attack target)
+==================================================
